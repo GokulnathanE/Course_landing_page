@@ -1,0 +1,117 @@
+@import url("https://fonts.googleapis.com/css2?family=Saira+Condensed:wght@100;200;300;400;500;600;700;800;900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Rowdies:wght@300;400;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Righteous&display=swap");
+.saira-semibold {
+  font-family: "Saira Condensed", sans-serif;
+  font-weight: 600;
+  font-style: normal;
+}
+.color {
+  color: rgba(8, 63, 155, 1);
+}
+.saira-medium {
+  font-family: "Saira Condensed", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.rowdies {
+  font-family: "Rowdies", sans-serif;
+}
+.righteous {
+  font-family: "Righteous", sans-serif;
+}
+.righteous-medium {
+  font-family: "Righteous", sans-serif;
+  font-weight: 400;
+}
+.bg-testimonials {
+  background: linear-gradient(180deg, white, rgb(216, 236, 247));
+}
+.featured-gradient-background {
+  background: rgba(217, 236, 255, 1);
+  background: linear-gradient(180deg, white, rgba(217, 236, 255, 1));
+}
+.featured-btn-bg,
+.signup-btn-bg {
+  background: linear-gradient(
+    45deg,
+    rgba(8, 63, 155, 1),
+    rgba(127, 86, 217, 1)
+  );
+}
+.subscribe {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 179, 255, 1),
+    rgba(25, 1, 248, 1),
+    rgba(228, 65, 255, 1)
+  );
+}
+
+.why-learn {
+  background: rgba(115, 159, 232, 1);
+  background: linear-gradient(
+    90deg,
+    rgba(115, 159, 232, 1),
+    rgba(72, 32, 203, 1)
+  );
+}
+
+.nav-brand,
+.nav-bg {
+  background: linear-gradient(180deg, rgb(0, 77, 209), rgb(103, 62, 190));
+}
+
+.nav-view-courses,
+.nav-search,
+.subs-btn-mail {
+  background-color: rgba(8, 63, 155, 1);
+}
+
+.dso {
+  background-color: rgba(223, 56, 91, 1);
+}
+.wso {
+  background-color: rgb(15, 184, 15);
+}
+.aso {
+  background-color: rgb(28, 0, 39);
+}
+.pso {
+  background-color: rgb(223, 184, 56);
+}
+.iso {
+  background-color: rgb(1, 88, 1);
+}
+.gso {
+  background-color: rgb(43, 204, 10);
+}
+
+.main-foo-btn {
+  border-radius: 8px;
+  background-color: #fff;
+  width: 90%;
+  margin: auto;
+}
+
+.foo-btn p {
+  display: flex;
+  color: rgba(148, 145, 145, 1);
+  align-items: center;
+}
+.subs-btn {
+  color: #fff;
+  background-color: rgba(250, 116, 54, 1);
+  border: none;
+  border-radius: 8px;
+  padding: 4px 28px;
+}
+.subs-para-20 {
+  color: rgba(255, 255, 255, 0.6);
+}
+.subs-enter {
+  background-color: rgba(255, 255, 255, 0.6);
+}
+.why-learn {
+  background: linear-gradient(to right, #8f94fb, #4e54c8);
+}
